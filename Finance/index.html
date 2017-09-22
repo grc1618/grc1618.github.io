@@ -1,0 +1,131 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<link rel="stylesheet" href="jemdoc.css" type="text/css" />
+<title>Finance</title>
+<!-- MathJax -->
+<script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_CHTML">
+</script>
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+	  TeX: { equationNumbers: { autoNumber: "AMS" } }
+});
+</script>
+<!-- End MathJax -->
+</head>
+<body>
+<table summary="Table for page layout." id="tlayout">
+<tr valign="top">
+<td id="layout-menu">
+<div class="menu-category">Xi Tan</div>
+<div class="menu-item"><a href="../index.html" class="current">About</a></div>
+<div class="menu-category">Finance</div>
+<div class="menu-item"><a href="index.html" class="current">Homepage</a></div>
+<div class="menu-item"><a href="good_readings.html">Good&nbsp;Readings</a></div>
+<div class="menu-item"><a href="glossary.html">Glossary</a></div>
+<div class="menu-item"><a href="FAQ.html">FAQ</a></div>
+<div class="menu-category">Financial Mathematics</div>
+<div class="menu-item"><a href="*">Stochastic&nbsp;Calculus</a></div>
+<div class="menu-item"><a href="*">Stochastic&nbsp;Differential&nbsp;Equations</a></div>
+<div class="menu-item"><a href="*">Numerical&nbsp;Methods&nbsp;(MC,&nbsp;Finite&nbsp;Difference)</a></div>
+<div class="menu-category">Pricing</div>
+<div class="menu-item"><a href="*">Equilibrium&nbsp;Asset&nbsp;Pricing:&nbsp;CAPM,&nbsp;Factor&nbsp;Model</a></div>
+<div class="menu-item"><a href="*">Derivatives	(Options,&nbsp;Futures,&nbsp;Forwards,&nbsp;Swaps)</a></div>
+<div class="menu-item"><a href="*">Equity</a></div>
+<div class="menu-item"><a href="*">Fixed&nbsp;Income</a></div>
+<div class="menu-item"><a href="*">Currencies&nbsp;(interest&nbsp;rate)</a></div>
+<div class="menu-category">Risk</div>
+<div class="menu-item"><a href="*">Hedging</a></div>
+<div class="menu-item"><a href="*">Volatility&nbsp;Risk</a></div>
+<div class="menu-item"><a href="*">Credit&nbsp;Risk</a></div>
+<div class="menu-item"><a href="*">Market&nbsp;Risk</a></div>
+<div class="menu-item"><a href="*">Liquidity&nbsp;Risk</a></div>
+<div class="menu-category">Investment</div>
+<div class="menu-item"><a href="*">Optimal&nbsp;Portfolio&nbsp;Theory</a></div>
+<div class="menu-category">Products and Markets</div>
+<div class="menu-item"><a href="equities.html">Equities</a></div>
+<div class="menu-item"><a href="commodities.html">Commodities</a></div>
+<div class="menu-item"><a href="currencies.html">Currencies</a></div>
+<div class="menu-item"><a href="indices.html">Indices</a></div>
+<div class="menu-item"><a href="*">Fixed-income&nbsp;Securities</a></div>
+<div class="menu-item"><a href="FF.html">Forwards&nbsp;and&nbsp;Futures</a></div>
+<div class="menu-category">Coorporate Finance</div>
+</td>
+<td id="layout-content">
+<div id="toptitle">
+<h1>Finance</h1>
+</div>
+<p>Finance
+1.	Journal of Financial Economics
+2.	The Journal of Finance
+3.	The Review of Financial Studies</p>
+<p>Economics
+1.	The American Economic Review
+2.	The Quarterly Journal of Economics
+3.	Econometrica
+4.	The Review of Economic Studies
+5.	Journal of Political Economy</p>
+<p>There exist two separate branches of finance that require advanced quantitative techniques: derivatives pricing, and risk and portfolio management. One of the main differences is that they use different probabilities, namely the risk-neutral probability (or arbitrage-pricing probability), denoted by &ldquo;Q&rdquo;, and the actual (or actuarial) probability, denoted by &ldquo;P&rdquo;. (from wikipedia, article on Mathematical Finance)</p>
+<h3>The Q world (Derivatives Pricing)</h3>
+<p>The goal of derivatives pricing is to determine the fair price of a given security in terms of more liquid securities whose price is determined by the law of supply and demand.</p>
+<table id="Q">
+<tr class="r1"><td class="c1">Goal  </td><td class="c2"> &ldquo;extrapolate the present&rdquo; </td></tr>
+<tr class="r2"><td class="c1">Environment </td><td class="c2"> risk-neutral probability Q   </td></tr>
+<tr class="r3"><td class="c1">Processes   </td><td class="c2"> continuous-time martingales </td></tr>
+<tr class="r4"><td class="c1">Dimension </td><td class="c2"> low </td></tr>
+<tr class="r5"><td class="c1">Tools </td><td class="c2"> Ito calculus, PDEs </td></tr>
+<tr class="r6"><td class="c1">Challenges </td><td class="c2"> calibration </td></tr>
+<tr class="r7"><td class="c1">Business </td><td class="c2"> sell-side
+</td></tr></table>
+<ul>
+<li><p>A martingale does not reward risk, hence the name &ldquo;risk-neutral&rdquo;.</p>
+</li>
+<li><p>Securities are priced individually, and thus the problems in the Q world are low-dimensional in nature.</p>
+</li>
+</ul>
+<h3>The P world (Risk and Portfolio Management)</h3>
+<p>Based on the P distribution, the buy-side community takes decisions on which securities to purchase in order to improve the prospective profit-and-loss profile of their positions considered as a portfolio.</p>
+<table id="Q">
+<tr class="r1"><td class="c1">Goal  </td><td class="c2"> &ldquo;model the future&rdquo; </td></tr>
+<tr class="r2"><td class="c1">Environment </td><td class="c2"> real-world probability P   </td></tr>
+<tr class="r3"><td class="c1">Processes   </td><td class="c2"> discrete-time series </td></tr>
+<tr class="r4"><td class="c1">Dimension </td><td class="c2"> large </td></tr>
+<tr class="r5"><td class="c1">Tools </td><td class="c2"> multivariate statistics </td></tr>
+<tr class="r6"><td class="c1">Challenges </td><td class="c2"> estimation </td></tr>
+<tr class="r7"><td class="c1">Business </td><td class="c2"> buy-side
+</td></tr></table>
+<h2>Topics ==</h2>
+<ul>
+<li><p>Financial Mathematics</p>
+</li>
+<li><p>Economics</p>
+</li>
+<li><p><a href="../Finance/CFA.html" target=&ldquo;blank&rdquo;>CFA</a>, FRM</p>
+</li>
+</ul>
+<ul>
+<li><p><a href="http://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/" target=&ldquo;blank&rdquo;>MIT Microeconomics (online course)</a></p>
+</li>
+</ul>
+<h2>Miscellaneous ==</h2>
+<ul>
+<li><p><a href="http://www.economicprinciples.org/wp-content/uploads/ray_dalio__how_the_economic_machine_works__leveragings_and_deleveragings.pdf" target=&ldquo;blank&rdquo;>How the Economic Machine Works</a></p>
+</li>
+<li><p><a href="http://www.quantstart.com/articles/What-are-the-Different-Types-of-Quantitative-Analysts" target=&ldquo;blank&rdquo;>Types of Quants</a></p>
+</li>
+<li><p><a href="http://www.garp.org/media/585808/feb%2041-44_quantclassroom.pdf" target=&ldquo;blank&rdquo;>P v.s. Q</a></p>
+</li>
+</ul>
+<div id="footer">
+<div id="footer-text">
+Page generated 2017-09-22 01:17:43 EDT, by <a href="https://github.com/wsshin/jemdoc_mathjax" target="blank">jemdoc+MathJax</a>.
+</div>
+</div>
+</td>
+</tr>
+</table>
+</body>
+</html>
