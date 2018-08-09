@@ -1,0 +1,25 @@
+# jemdoc: menu{MENU_MAIN}{Program.html}
+
+== R
+
+[http://r4ds.had.co.nz/index.html R for Data Science]
+
+[https://github.com/thomasrauter/fishing-with-pearls Bank Firm Relationship Data Cleaning]
+
+[https://github.com/ckscheuch/rWRDS Fetch Data from WRDS in R]
+
+[https://swcarpentry.github.io/r-novice-gapminder/aio.html Tutuorial]
+
+[https://sites.google.com/site/waynelinchang/r-code Wayne Chang] standard errors, GMM, replicate FF factors and momentum, VAR
+
+
+== Python
+[http://swcarpentry.github.io/python-novice-inflammation/aio.html Tutorial]
+
+testing
+
+== SAS
+[https://kelley.iu.edu/nstoffma/fe.html SAS code] on clustering, Fixed Effects and Fama-MacBeth regressions
+
+== Stata
+[https://www.kellogg.northwestern.edu/faculty/petersen/htm/papers/se/se_programming.htm Stata code] on clustering, Fixed Effects and Fama-MacBeth regressions

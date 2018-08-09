@@ -1,0 +1,43 @@
+# jemdoc: menu{MENU_MAIN}{APE.html}
+
+== Prediction
+During the 1980s, researchers studied valuation ratios, such as the dividend-price ratio, earnings-price ratio, or smoothed earnings-price ratio to predict subsequent returns and predictability is substantial at longer horizons. 
+
+During the 1990s and early 2000s, researchers continued on valuation ratios and interest rates, and found new predictor variables exploiting information in corporate payout and financing activity, level of consumption relative to wealth, relative valuations of high- and low-beta stocks. However, the predictability of stocks might be spurious: 1. Bias: many of the predictor variables are highly persistent and innovations are correlated with returns 2. incorrect t-stat. Then researchers discusses alternative econometric methods for correcting the bias and conducting valid inference. 
+
+Another critique emphasizes that predictive regressions have perform poorly *out-of-sample*. Goyal and Welch (2006) compare predictive
+regressions with historical average returns and find that historical average returns almost always generate superior return forecasts. They conclude that “the profession has yet to find some variable that has meaningful and robust empirical equity premium
+forecasting power.” 
+
+Campbell and Thompson (2008) take up Goyal and Welch's challenge and whether standard variables could have been used in real time to forecast twentieth and early twenty-first century stock returns. We show that simple *restrictions* on predictive regressions, suggested by
+investment theory, improve the out-of-sample performance of key forecasting variables
+and imply that investors could have profited by using market timing strategies.
+
+== Cross Section
+
+= Methodology
+- Fama MacBeth: 1) use time-series to estimate beta 2) use beta estimates to estimate risk premium, then take average
+
+Problem: Error in variance. Remedy: GMM
+
+- Factor vs Characterisitcs: Daniel and Titman (1993)
+
+
+== Liquidity
+Liquidity measures:
+ - Pastor-Stambaugh market liquidity 
+ - Amihud ILLIQ. Price impact measure
+
+Survey 
+
+ Holden, Craig W., Stacey Jacobsen, and Avanidhar Subrahmanyam. "The empirical analysis of liquidity." Foundations and Trends in Finance 8.4 (2014): 263-365.
+
+ Amihud, Yakov, Haim Mendelson, and Lasse Heje Pedersen. "Liquidity and asset prices." Foundations and Trends® in Finance 1.4 (2006): 269-364.
+
+
+
+
+== Cross Section
+[https://mp.weixin.qq.com/s?__biz=MjM5NzU3MDc1MA==&mid=2455722492&idx=1&sn=6204ca1de78793dbb930c1706892ef8a&chksm=b17c082d860b813baeb6495fe3d9f631fe3d4ca7dd3c5b2bf86219e044f9567c00be855dddf5&scene=21#wechat_redirect 美股量化因子] risk and behavior explanations. limits to arbitrage
+
+testing

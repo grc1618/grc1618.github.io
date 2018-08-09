@@ -1,0 +1,105 @@
+# jemdoc: menu{MENU_MAIN}{Researchers.html}
+
+== Asset Pricing
+
+[https://voices.uchicago.edu/stefannagel/research/ Stefan Nagel]
+
+[http://apps.olin.wustl.edu/faculty/zhou Guofu Zhou (周国富)] Olin Washington
+
+[https://sites.google.com/slu.edu/daverapach Dave Rapach] Olin Washington
+
+[https://sites.google.com/site/jeremiahrgreenacctg/home Jeremiah Green] SAS code to create firm characteristics and returns pulling from Compustat, CRSP, IBES through WRDS
+
+[https://sites.google.com/slu.edu/daverapach Dave Rapach] Saint Loius [https://sites.google.com/slu.edu/daverapach/publications?authuser=0 data]
+
+[http://www.personal.psu.edu/qxc2/cao.html Charles Cao] Penn State
+
+[http://www.econ.yale.edu/~shiller/ Robert Shiller]
+
+[http://www.koijen.net/research-papers.html Ralph Koijen] NYU LBS Booth [http://www.koijen.net/code-and-data.html data]
+Insurance [http://insurance.princeton.edu/ Lectures]
+
+[https://sites.google.com/site/motohiroyogo/research/asset-pricing?authuser=0 Motohiro Yogo] Princeton 
+
+[https://sethpruitt.net/research/ Seth Pruitt] Arizona State [https://sethpruitt.net/research/downloads/ code]
+
+[https://www.bryankellyacademic.org/ Bryan Kelly] Yale
+
+[https://www0.gsb.columbia.edu/faculty/svannieuwerburgh/?_ga=2.127115277.1269084780.1533034515-1131406689.1523936902 Stijin Van Niewuwerburgh]
+
+[https://people.stanford.edu/hlustig/ Hanno Lustig]
+
+[https://sites.google.com/view/stefanogiglio/ Stefano Giglio]
+
+[http://www.dew-becker.org/ Ian Dew-Becker] Kellog
+
+[https://sites.google.com/view/jules-van-binsbergen/reading-papers?authuser=0 Jules van Bingsbergen] Wharton
+
+[http://faculty.haas.berkeley.edu/vissing/ Annette Vissing-Jorgensen] Haas
+
+[https://www3.nd.edu/~zda/ Zhi Da] Notre Dame 
+
+[https://wpcarey.asu.edu/people/profile/2717225 Hendrik Bessembinder]
+
+[http://public.econ.duke.edu/~ap172/ Andrew Patton] Duke (Econometrics, Hedge Funds with slides)
+
+[https://sites.google.com/site/mariachaderina/research Maria Chaderina] Matlab Code [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2530969 Rollover Risk and Dynamics of Debt]
+
+[http://sf.cbs.dk/jdnielsen/how_to_clean_trace_data clean TRACE data] Dick_Nielsen
+
+[http://www.mysmu.edu/faculty/rogerloh/default.htm Roger Loh] with slides and SAS links
+
+
+== Macro and Econ
+
+[http://finance.wharton.upenn.edu/~jermann/research.html#Discussions Urban Jermann] Wharton. with slides
+
+== Hedge funds and Mutual Funds
+
+[http://www2.gsu.edu/~fncvaa/ Vikas Agarwal]
+
+[https://sites.google.com/site/hanjiangz/ Hanjiang Zhang] wsu 
+
+[https://business.uoregon.edu/faculty/zhi-jay-wang Z.Jay Wang] Oregon U
+
+[https://sites.google.com/site/mariachaderina/research Maria Chaderina] WU Vienna
+
+[https://faculty.mccombs.utexas.edu/clemens.sialm/ Chemens Sialm] taxes, mutual fund.  Texas Austin (with slide)
+
+=== Prediction
+Goyal and Welch (2006): historical average excess stock return forecasts future excess stock returns better than regressions of excess returns on predictor variables.
+
+[http://www.ivo-welch.info/professional/goyal-welch/ Welch's R code] 
+[https://www.proprietarydataanalytics.com/ Welch's troll on Proprietary Data Analytics]
+
+
+
+== Risk Factors
+[http://www.lhpedersen.com/data Lasse Pedersen] VME factors, TSMOM factors, BAB factors, QMJ factors, Carry factors
+
+[http://www.alexchinco.com/how-many-assets-are-needed-to-test-a-k-factor-model/ How many assets needed to test a K-factor model?] 
+
+[http://www.alexchinco.com/ Research Notebook] by Alex
+
+[http://faculty.msb.edu/tgb27/index.html Turan Gali] Georgetown. cross section
+
+[http://theinvestmentcapm.com/research.htm Lu Zhang] Investment CAPM, replicating anomalies, which factors, q^5. with slides
+
+
+== Network
+[http://gofman.info/ Michael Gofman]
+
+
+== Short Sell
+Engleberg and Boehmer
+
+
+Christian Julliard，用信息论的一些技术处理一些asset pricing问题。
+
+
+
+== FX
+[http://people.duke.edu/~acb8/Burnside/Research.html Craig Burnside] Duke Econ, currency speculation
+
+
+dd

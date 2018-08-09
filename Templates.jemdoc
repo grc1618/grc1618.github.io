@@ -1,0 +1,23 @@
+# jemdoc: menu{MENU_MAIN}{Templates.html}
+
+== CV
+
+[https://www.stat.berkeley.edu/~paciorek/computingTips/Latex_template_creating_CV_.html CV template] provided by Christopher J. Paciorek
+
+== Latex
+
+[http://www.ivo-welch.info/professional/rfs-styles/ RFS style] by Ivo Welch
+
+== Program Presentation:
+
+[https://rmarkdown.rstudio.com/ R Markdown] [https://ckscheuch.github.io/post/2015-07-23-r-rmarkdown/ example]
+
+== Website
+
+[https://themes.gohugo.io/theme/academic/ Academic] [https://ckscheuch.github.io/post/getting-started/ example]
+
+[https://raw.githubusercontent.com/ckscheuch/ckscheuch.github.io/master/files/teaching/styleguide_v3.tex Thesis]
+
+
+
+testing

@@ -1,0 +1,48 @@
+# jemdoc: menu{MENU_MAIN}{Hedge.html}
+
+== Hedge Data
+
+Identify whether primary business of an institutional investor is managing hedge funds:
+Brunnermeier and Nagel (2004) and Griffin and Xu (2009)
+
+Ownership data
+
+TASS, HFR, Morningstar, CISDM, Barclay Hedge, 13-F, ADV forms from SEC, online resources such as Business Weeks list of private and hedge fund company websites.
+
+*CDA/Spectrum 13F* classifies five groups of insitutional investors: Banks, Insurance Companies, Investment Companies, Independent Advisers and Others. 
+
+
+== Skill
+类似topic写出来的都是一个套路。尤其明显的就是fund managerial skill，首先propose一个measure，然后先检验predictability，包括short-term和long-term，再考虑一个重要的问题就是为什么，为什么这个measure可以测度skill，以及是什么因素造成了这个measure在不同fund中不同。比如这样：
+- intuition
+- measure definition
+- predictability
+- determinant
+
+
+== Survey Papers
+Musto David The economics of mutual fund
+
+
+== Recent Reading List
+
+Mutual Fund:
+
+Measuring Fund Strategy and Performance in Changing Economic Conditions
+The Geography of Investment: Informed Trading and Asset Prices
+Portfolio Performance Manipulation and Manipulation-proof Performance Measures
+Measuring Mutual Fund Performance with Characteristic-Based Benchmarks
+On the Industry Concentration of Actively Managed Equity Mutual Funds
+Unobserved Actions of Mutual Funds
+How Active Is Your Fund Manager? A New Measure That Predicts Performance
+Common Portfolio Holdings and Mutual Fund Performance
+Mutual Fund's R2 as Predictor of Performance
+
+Hedge Fund:
+
+How Smart Are the Smart Guys? A Unique View from Hedge Fund Stock Holdings
+Role of Managerial Incentives and Discretion in Hedge Fund Performance
+The Road Less Traveled: Strategy Distinctiveness and Hedge Fund Performance
+Can hedge funds time market liquidity?
+Return Smoothing, Liquidity Costs, and Investor Flows: Evidence from a Separate Account Platform
+What Is the Nature of Hedge Fund Manager Skills? Evidence from the Risk Arbitrage Strategy
